@@ -228,5 +228,5 @@ function onLoad() {
     finalResult = "https://www.lethalcosmetics.com/palette-designer/?pd=" + finalResult
     document.getElementById('link')
     link.href = finalResult
-    link.innerHTML = finalResult
+    link.innerHTML = "Go!"
 }
